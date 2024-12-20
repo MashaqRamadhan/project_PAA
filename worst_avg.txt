@@ -1,0 +1,8 @@
+n=100, Worst Case=4950, Average Case=4950
+n=150, Worst Case=11175, Average Case=11175
+n=200, Worst Case=19900, Average Case=19900
+n=250, Worst Case=31125, Average Case=31125
+n=300, Worst Case=44850, Average Case=44850
+n=350, Worst Case=61075, Average Case=61075
+n=400, Worst Case=79800, Average Case=79800
+n=500, Worst Case=124750, Average Case=124750
